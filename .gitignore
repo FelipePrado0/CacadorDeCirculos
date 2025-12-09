@@ -1,0 +1,15 @@
+# Pastas de cache e temporárias da Unity (NÃO ENVIAR)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de IDE e soluções (NÃO ENVIAR)
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
